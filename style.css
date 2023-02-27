@@ -1,0 +1,42 @@
+h2 {
+    color: saddlebrown;
+}
+
+div.eggs  {
+    background-image: url("website_bg.jpg");
+}
+
+div {
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 30px;
+    padding-top: 30px;
+}
+
+div.instructions {
+    background-color: burlywood;
+}
+
+td.bullets {
+    color: lightyellow;
+}
+
+ol#numberlist {
+    color: lightyellow;
+}
+
+a:link {
+    color: saddlebrown;
+}
+
+a:visited {
+    color: saddlebrown;
+}
+
+a:hover {
+    color: darkred;
+}
+
+a:active {
+    color: black;
+}
